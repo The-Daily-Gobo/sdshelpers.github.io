@@ -1,4 +1,4 @@
 # SDS Helpers
 The main site for Scratch SDS Helpers and Curators!
 # Our Scratch Studio
-Our Scratch studio can be found at this link: https://scratch.mit.edu/studios/31464146/
+Our Scratch studio can be found [here](https://scratch.mit.edu/studios/31464146/)
